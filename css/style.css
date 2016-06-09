@@ -1,0 +1,128 @@
+	body {
+		font-family: 'Bitter', serif;
+
+	}
+
+	.arrow {
+		width: 50px;
+
+	}
+	
+	/*Style for Homepage*/
+
+	.background1 {
+        background-image: url("../img/bcg.jpg");
+        background-size: cover;
+        background-position: center;
+        padding-bottom: 130px;
+	}
+
+	a.mainmenu {
+		background-color: transparent;
+		text-decoration: none;
+		color: #fff;
+	}
+
+	.banner-support p {
+		margin-right: 30px;
+	}
+
+	.headerline{
+		margin-left:530px; 
+		margin-right:530px; 
+		margin-top:-2px; 
+		margin-bottom:7px;
+		border-color: #736588; 
+		border-width: 3px;
+		border-radius: 2px;
+
+	}
+
+	.imgMe {
+		margin: auto;
+		margin-top: 40px;
+		width: 60%;
+		border: 3px solid #ffd670;
+		padding: 20px;
+		color: #663399;
+	}
+
+
+   /*Style for the AboutMe page */
+
+   #About { 
+	   	margin: auto;
+	   	margin-top: 40px;
+	   	width: 100%;
+	    border: 3px solid #ffd670;
+	    border-radius: 50px;
+	    padding: 10px;
+	    
+
+   }
+
+   /*Style for the progress bar*/
+
+   .progress {
+		background-color:  #B0B0B0;
+		height: 35px;
+		margin: 10px;
+	}
+
+	.progress-bar {
+		background-color: #ffd670;
+		height: 35px;
+		margin-left: 0;
+		margin-top: 30px;
+	}
+
+   /*Style for the text in progress-bar (HTML,CSS,..*/
+
+   .txt1 {
+   	    margin-left: 20px;
+   	    margin-top: 7px;
+   	    font-size: 13px;
+   	    font-weight: bold;
+	    color:#000000;
+
+   }
+
+   /*Style for the text in progress-bar (percentage)*/
+
+   .txt2 {
+   	   text-align: right;
+   	   color: #3CB371;
+   	   font-weight: bold;
+   	   font-size: 13px;
+   	   margin-top: 7px;
+   	   color: #000000;
+   }
+
+   /*Style for the Portfolio Page*/
+    .portfolio {
+	    color: white;
+	    background-image: url("http://www.dact-international.org/images/BACKGROUND_GRADIENT_2_836.png");
+	}
+
+
+	/*Style for ContactMe Page*/
+	.contact {
+		text-decoration: none;
+		text-align: center;
+	}
+
+	.text-uppercase {
+		text-transform: uppercase;
+	}
+
+	h3 {
+		font-family: inherit;
+	}
+
+	.image {
+		display: inline-block;
+	}
+
+	p {
+		display: inline-block;
+	}
